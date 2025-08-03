@@ -36,9 +36,7 @@ while (jj <= 98) {
 }
 
 // Subtask-1:
-
 // Display sum of all the odd numbers from 81 to 131.
-
 //  */
 
 let kk = 81;
@@ -50,13 +48,12 @@ while (kk <= 131) {
   kk++;
 }
 console.log("Total sum of odd numbers from 81 to 131 is", sumOdd);
+
+
 /***
-
 Subtask-2:
-
 Display sum of all the even numbers from 206 to 311.
-
- */
+*/
 
 let ll = 206;
 let sumEven = 0;
@@ -69,10 +66,8 @@ while (ll <= 311) {
 console.log("Total sum of even numbers from 206 to 311 is", sumEven);
 
 /***
-
 As Era is learning now, she wants to explore more and more. Tell Era to generate a multiplication table for number 5
-
- */
+*/
 
 let mm = 1;
 while (mm <= 10) {
@@ -81,10 +76,8 @@ while (mm <= 10) {
 }
 
 /***
-
 Implement a countdown timer that counts down from 21 to 15.
-
- */
+*/
 
 let nn = 21;
 while (nn >= 15) {
